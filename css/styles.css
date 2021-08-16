@@ -1,0 +1,292 @@
+/* navigacia */
+.header1 {
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 50;
+}
+
+.nav1 {
+  height: 50px;
+  background-color: #F6F8F9;
+}
+
+.logo {
+  display: inline-block;
+  margin: 18px 92px 17px 20px;
+  vertical-align: top;
+}
+
+.home {
+  display: inline-block;
+  margin: 20px 27px 18px 92px;
+  font-family: 'Helvetica';
+  color: #343638;
+}
+
+.disc {
+  display: inline-block;
+  margin: 20px 22px 18px 27px ;
+  font-family: 'Helvetica';
+  color: #343638;
+}
+
+.photo {
+  display: inline-block;
+  margin: 20px 22px 18px 22px ;
+  font-family: 'Helvetica';
+  color: #343638;
+}
+
+.cont {
+  display: inline-block;
+  margin: 20px 40px 18px 22px;
+  font-family: 'Helvetica';
+  color: #343638;
+}
+
+.girl {
+  display: inline-block;
+  margin-top: 11px;
+  margin-bottom: 9px;
+  vertical-align: top;
+}
+
+.ul1 {
+  display: inline-block;
+  vertical-align: top;
+}
+
+/* section 1 */
+.divmain {
+  width: 1300px;
+  height: 410px;
+  margin-top: 70px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 58px;
+}
+
+.div1 {
+  display: inline-block;
+  width: 360px;
+  height: 370px;
+  background-color: #FFFFFF;
+  position: relative;
+}
+
+.div2 {
+  display: inline-block;
+  width: 360px;
+  height: 370px;
+  background-color: #FFFFFF;
+  margin-left: 40px;
+  margin-right: 40px;
+  position: relative;
+}
+
+.div3 {
+  display: inline-block;
+  width: 360px;
+  height: 370px;
+  background-color: #FFFFFF;
+  position: relative;
+}
+
+.lorem {
+  font-size: 13px;
+  color: #A6ADB4;
+  margin: 66px 40px 60px 40px;
+  font-family: 'Helvetica';
+}
+
+.bodymain {
+  background-color: #F6F8F9
+}
+
+.trend {
+  margin-bottom: 40px;
+  margin-top: 25px;
+  font-size: 24px;
+  font-family: 'Helvetica';
+}
+
+.time {
+  margin-right: 254px;
+  margin-bottom: 40px;
+  color: #A6ADB4;
+  display: inline-block;
+}
+
+.time1 {
+  margin-left: 40px;
+  display: inline-block;
+}
+
+/* section 2 */
+.divmain2 {
+  width: 1300px;
+  height: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+
+.divleft {
+  display: inline-block;
+  width: 760px;
+  height: 900px;
+  position: relative;
+}
+.morbi {
+  position: absolute;
+  top: 250px;
+  left: 300px;
+  color: #FFFFFF;
+  font-size: 16px;
+  font-family: 'Helvetica';
+}
+
+.divright {
+  display: inline-block;
+  width: 360px;
+  height: 896px;
+  margin-left: 40px;
+}
+
+.xidi {
+  margin-bottom: 40px;
+}
+
+.hap {
+  margin-bottom: 40px;
+  font-family: 'Helvetica';
+  font-size: 24px;
+}
+
+.spilo {
+  margin-bottom: 102px;
+}
+
+.tuti {
+  margin-bottom: 102px;
+}
+
+.gza {
+  margin-bottom: 60px;
+}
+
+/* footer */
+.footer {
+  height: 200px;
+  background-color: #A6ADB4;
+  margin-top: 37px;
+}
+
+.divf1 {
+  width: 1300px;
+  height: 86px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logo2 {
+  margin-top: 54px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.divul {
+  display: inline-block;
+  width: 500px;
+  height: 91px;
+  margin-left: 89px;
+  margin-top: 54px;
+  margin-left: 91.1px;
+  margin-bottom: 55px;
+  vertical-align: top;
+}
+
+.ul11 {
+  display: inline-block;
+  margin-right: 96.7px;
+
+}
+
+.ul12 {
+  display: inline-block;
+  margin-right: 100.2px;
+
+}
+
+.ul13 {
+  display: inline-block;
+
+}
+
+.ulcolor {
+  color: #CBD0D3;
+  font-size: 13px;
+}
+
+.footerp {
+  display: inline-block;
+  color: #CBD0D3;
+  font-size: 11px;
+  margin-top: 62px;
+  font-family: 'Helvetica';
+}
+
+.insta {
+  display: inline-block;
+  width: 160px;
+  height: 16px;
+  margin-left: 165.2px;
+}
+
+.instap {
+  padding-right: 25px;
+}
+
+.twit {
+  padding-right: 25px;
+}
+
+.faceb {
+  padding-right: 25px;
+}
+
+/* section1 */
+.dolore {
+  color: #FFFFFF;
+  display: inline-block;
+  position: absolute;
+  top: 40px;
+  left: 50px;
+  font-size: 16px;
+  font-family: 'Helvetica';
+}
+
+.dolore2 {
+  color: #FFFFFF;
+  display: inline-block;
+  position: absolute;
+  top: 40px;
+  left: 50px;
+  font-size: 16px;
+  font-family: 'Helvetica';
+}
+
+.dolore3 {
+  color: #FFFFFF;
+  display: inline-block;
+  position: absolute;
+  top: 40px;
+  left: 50px;
+  font-size: 16px;
+  font-family: 'Helvetica';
+}
+
+.fonts1 { font-family: 'Helvetica';}
